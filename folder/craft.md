@@ -2,5 +2,6 @@
 fdghfdghdfgh
 
 ```php
-dfsgsdfgdsg
+<?php
+echo date('Y);
 ```
